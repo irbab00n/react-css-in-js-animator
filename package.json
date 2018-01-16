@@ -1,0 +1,25 @@
+{
+  "name": "react-css-in-js-animator",
+  "version": "1.0.0",
+  "description": "This package allows you to chain setState changes to trigger CSS-in-JS flags to extend style objects to create complex animations",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/irbab00n/react-css-in-js-animator.git"
+  },
+  "keywords": [
+    "React",
+    "CSS",
+    "CSS-in-JS",
+    "animator"
+  ],
+  "author": "Thomas Cosby",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/irbab00n/react-css-in-js-animator/issues"
+  },
+  "homepage": "https://github.com/irbab00n/react-css-in-js-animator#readme"
+}
